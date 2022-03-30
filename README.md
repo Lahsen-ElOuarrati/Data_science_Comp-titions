@@ -1,2 +1,2 @@
-# Data_science_Comp-titions
+# Data_science_Competitions
 Challenge/camp pour les data sciences
